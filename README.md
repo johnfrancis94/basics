@@ -1,0 +1,2 @@
+# basics
+main project basics
